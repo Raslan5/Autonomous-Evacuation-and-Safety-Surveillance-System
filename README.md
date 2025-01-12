@@ -4,7 +4,7 @@ This project develops the features of a multimodal autonomous system that integr
 sound sensors, cameras, and electricity usage to assess the safety of neighborhoods and houses,
 specifically Lebanese evacuated houses due to the war.
 
-## Module 1 - Airstrike Detection 
+## Module 1 - Threatening Sound Detection and Classification 
 The first module focuses on detecting potential airstrikes by analyzing sound patterns captured from a microphone using machine learning. 
 The system is trained to classify audio inputs in real-time as either "casual" or "uncasual", distinguishing sounds like explosions or gunshot. 
 This functionality is critical for emergency response and evacuation planning in conflict zones.
