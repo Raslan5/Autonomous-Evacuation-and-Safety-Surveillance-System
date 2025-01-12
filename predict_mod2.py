@@ -1,5 +1,5 @@
 from ultralytics import YOLO
-model = YOLO("best.pt") # use the trained model
+model = YOLO("mod2.pt") # use the trained model
 
 # source to 0 for local webcam 
 model.predict(source= "sample", show=True,
