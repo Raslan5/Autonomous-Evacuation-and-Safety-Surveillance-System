@@ -17,9 +17,9 @@ such as weapons and masked individuals. The predict_mod2.py script allows users 
 For those looking to train the model further, train_mod2.ipynb provides a customizable framework to train YOLOv11 using a custom dataset, 
 enabling adjustments to hyperparameters like confidence thresholds and epochs.
 
- `mod2.pt`: A pre-trained by only 25 epochs YOLOv11 model for detecting suspicious objects and activities such as weapons, masked individuals, and more.
- `predict_mod2.py`: A Python script for performing predictions using the YOLO model (mod2.pt).
- `train_mod2.ipynb`:A Jupyter Notebook used for training the YOLO model after manipulating and unifying the datasets.
+ - `mod2.pt`: A pre-trained by only 25 epochs YOLOv11 model for detecting suspicious objects and activities such as weapons, masked individuals, and more.
+ - `predict_mod2.py`: A Python script for performing predictions using the YOLO model (mod2.pt).
+ - `train_mod2.ipynb`:A Jupyter Notebook used for training the YOLO model after manipulating and unifying the datasets.
 
 ## Module 3 - Electricity Safety 
 The third module focuses on detecting potential electricity theft in households by analyzing electricity usage patterns using machine learning. 
